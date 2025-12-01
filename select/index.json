@@ -1,0 +1,64 @@
+{
+  "version": 1,
+  "base_track": "Aoharu ~ RE Aoharu Rock Arrange / Blue Archive Fanmade",
+  "base_artist": "NezMayo",
+  "createdAt": "2025-12-01T04:31:36.355618Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Aoharu",
+      "artist": "Neriame",
+      "has_synced": true,
+      "path": "select/01_Aoharu_Neriame.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Aoharu",
+      "artist": "Akane",
+      "has_synced": true,
+      "path": "select/02_Aoharu_Akane.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "AO-HARU",
+      "artist": "uchuu,",
+      "has_synced": false,
+      "path": "select/pl_01_AO-HARU_uchuu,.txt"
+    },
+    {
+      "id": "petitlyrics_2",
+      "source": "petitlyrics",
+      "title": "Aoharu Goes On",
+      "artist": "uchuu,",
+      "has_synced": false,
+      "path": "select/pl_02_Aoharu_Goes_On_uchuu,.txt"
+    },
+    {
+      "id": "petitlyrics_3",
+      "source": "petitlyrics",
+      "title": "AOHARU YOUTH",
+      "artist": "uchuu,",
+      "has_synced": false,
+      "path": "select/pl_03_AOHARU_YOUTH_uchuu,.txt"
+    },
+    {
+      "id": "petitlyrics_4",
+      "source": "petitlyrics",
+      "title": "AOHARU",
+      "artist": "uchuu,",
+      "has_synced": false,
+      "path": "select/pl_04_AOHARU_uchuu,.txt"
+    },
+    {
+      "id": "petitlyrics_5",
+      "source": "petitlyrics",
+      "title": "AOHARU!花火",
+      "artist": "uchuu,",
+      "has_synced": false,
+      "path": "select/pl_05_AOHARU!花火_uchuu,.txt"
+    }
+  ]
+}
